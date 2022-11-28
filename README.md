@@ -1,2 +1,2 @@
-# Javascript-hours-day--nfo
+# Javascript-hours-day-Info
 ## kodluyoruz
